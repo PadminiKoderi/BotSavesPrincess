@@ -1,5 +1,5 @@
 # BotSavesPrincess
-//https://www.hackerrank.com/challenges/saveprincess/submissions/game/30613448
+//https://www.hackerrank.com/challenges/saveprincess
 using System;
 using System.Collections.Generic;
 using System.IO;
